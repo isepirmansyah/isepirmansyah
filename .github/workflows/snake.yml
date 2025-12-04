@@ -2,23 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    # Dijalankan setiap 12 jam
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Jalankan setiap 12 jam
+  workflow_dispatch: # Biar bisa di-klik manual
   push:
     branches:
     - master
     - main
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    permissions:
+      contents: write
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,11 +28,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
