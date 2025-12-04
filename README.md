@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isepirmansyah&show_icons=true&theme=radical" alt="Isep Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isepirmansyah&layout=compact&theme=radical" alt="Isep Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=isepirmansyah&show_icons=true&theme=radical&cache_seconds=0" alt="Isep Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isepirmansyah&layout=compact&theme=radical&cache_seconds=0" alt="Isep Languages" />
 </p>
 
 ---
@@ -54,12 +54,15 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/isepirmansyah/isepirmansyah/actions">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake.svg">
+      <img alt="Snake Animation" src="https://raw.githubusercontent.com/isepirmansyah/isepirmansyah/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </p>
+<p align="center"><i>Note: Jika gambar ular masih pecah, tunggu hingga Workflow "Generate Snake" di tab Actions berwarna Hijau (Sukses).</i></p>
 
 ---
 
