@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isepirmansyah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://instagram.com/USERNAME_IG_ANDA" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=isepirmansyah&label=Profile%20Views&color=0e75b6&style=flat" alt="isepirmansyah" />
 </p>
 
 ---
@@ -14,16 +13,16 @@
 
 - 🔭 I'm currently working as a **Freelancer Fullstack Web Dev**
 - 💬 Ask me about **PHP, Laravel, Node.js, CSS, & Kali Linux**
-- 📫 How to reach me: **email_anda@gmail.com**
-- 📄 Know about my experiences: **https://website-portfolio-anda.id/**
+- 📫 How to reach me: **isepirmansyah@gmail.com**
+- 📄 Know about my experiences: **https://isepirmansyah.id/**
 - ⚡ **Fun Fact:** I enjoy creating content for YouTube & TikTok.
 
 <br/>
 
 ### 🔗 Connect with me
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://instagram.com/USERNAME_IG_ANDA" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://tiktok.com/@USERNAME_TIKTOK" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" /></a>
+<a href="https://linkedin.com/in/isepirmansyah" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="isepirmansyah linkedin" /></a>
+<a href="https://instagram.com/isepirmansyah" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="isepirmansyah instagram" /></a>
+<a href="https://tiktok.com/@isepirmansyah" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="isepirmansyah tiktok" /></a>
 
 <br/>
 
@@ -33,7 +32,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,html,css,js,mysql,postgres,bootstrap,tailwind,linux,kali,git,github,vscode,postman,docker&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,html,css,js,mysql,postgres,bootstrap,tailwind,linux,kali,git,github,vscode,postman,docker&perline=10" alt="Isep Irmansyah Skills" />
   </a>
 </p>
 
@@ -49,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isepirmansyah&show_icons=true&theme=radical" alt="Isep's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isepirmansyah&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isepirmansyah&show_icons=true&theme=radical" alt="Isep Irmansyah Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isepirmansyah&layout=compact&theme=radical" alt="Isep Irmansyah Top Langs" />
 </p>
 
 ---
